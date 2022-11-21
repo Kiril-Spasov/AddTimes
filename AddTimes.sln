@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTimes", "AddTimes\AddTimes.csproj", "{6D76B5A1-8F3A-4643-A99F-58E7FA79D6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D76B5A1-8F3A-4643-A99F-58E7FA79D6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D76B5A1-8F3A-4643-A99F-58E7FA79D6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D76B5A1-8F3A-4643-A99F-58E7FA79D6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D76B5A1-8F3A-4643-A99F-58E7FA79D6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A887F80-CEDC-423F-A01D-AB0A4FF4EF3F}
+	EndGlobalSection
+EndGlobal
